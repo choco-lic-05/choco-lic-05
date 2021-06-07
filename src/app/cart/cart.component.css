@@ -1,0 +1,13 @@
+.card{
+    position: relative;
+}
+
+#k{
+    text-align: right;
+    position: absolute;
+    bottom: 5%;
+}
+
+#btn{
+    border-radius: 50%;
+}

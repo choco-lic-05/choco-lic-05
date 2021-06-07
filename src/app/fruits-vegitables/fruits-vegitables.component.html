@@ -1,0 +1,31 @@
+<div class="container mt-2 mb-5">
+    <div class="display-5">Fruits & Vegetables</div>
+    <div class="d-flex flex-row justify-content-between">
+        <div class="inputs mt-3">
+            <div *ngIf='showFilterByTitle'>
+                <input type="text" name="searchTerm" class="form-control" placeholder="Search" [(ngModel)]='seachTerm'>
+            </div>
+            <div *ngIf='!showFilterByTitle'>
+                <input type="text" name="minprice" class="w-50" placeholder="Min" style="padding: 1%;" [(ngModel)]='minPrice'>
+                <input type="text" name="maxprice" class="w-50" placeholder="Max" style="padding: 1%;" [(ngModel)]='maxPrice'>
+            </div>
+        </div>
+        <div class="filter-by mt-3">
+            <div class="dropdown">
+                <button class="btn btn-dark dropdown-toggle" type="button" data-bs-toggle="dropdown">
+                  Filter By
+                </button>
+                <ul class="dropdown-menu dropdown-menu-dark">
+                  <li><button class="dropdown-item" (click)='showFilterByTitle=true' >Name</button></li>
+                  <li><hr class="dropdown-divider"></li>
+                  <li><button class="dropdown-item" (click)='showFilterByTitle=false'>Price</button></li>
+                </ul>
+              </div>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 mt-1">
+        <div class="col mt-4" *ngFor='let fruitsVegetables of fruitsVegetablesData | search:seachTerm | minPrice:minPrice | maxPrice:maxPrice'>
+            <app-product-card [productData]=fruitsVegetables ></app-product-card>
+        </div>
+    </div>
+</div>

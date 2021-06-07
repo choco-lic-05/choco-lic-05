@@ -1,0 +1,91 @@
+<div class="body">
+    <div class="container">
+        <div class="row d-flex flex-row justify-content-center align-items-center">
+            <div @slideleft class="col-xl-6 col-lg-7 col-md-5 col-sm-12">
+                <div class="card">
+                    <h1>Sign up</h1>
+                    <form #ref="ngForm" (ngSubmit)="ref.form.valid && addRegisterDetails()">
+                        <div class="mb-3">
+                            <label for="un" class="form-label">Username</label>
+                            <input type="text" class="form-control" id="un" name="username" #refUsername="ngModel"
+                                required placeholder="Enter Username.." [(ngModel)]="registerDetails.username">
+                            <p class="text-danger"
+                                *ngIf="(ref.submitted||refUsername.touched) && refUsername.errors?.required">Username
+                                required</p>
+                        </div>
+                        <div class="mb-3">
+                            <label for="em" class="form-label">Email</label>
+                            <input type="email" class="form-control" id="em" name="email" #refEmail="ngModel" required
+                                placeholder="Enter Email-ID.." [(ngModel)]="registerDetails.email">
+                            <p class="text-danger"
+                                *ngIf="(ref.submitted||refEmail.touched) && refEmail.errors?.required">Email required
+                            </p>
+                        </div>
+                        <div class="mb-3" *ngIf='showPassword'>
+                            <label for="pw" class="form-label">Password</label>
+                            <div class="input-group">
+                                <input type="password" class="form-control" id="pw" name="password" #refPassword="ngModel"
+                                pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[!@#$%^&*_+=-]).{8,}" required
+                                placeholder="Enter Password.." [(ngModel)]="registerDetails.password">
+                                <span class="input-group-text p-0 m-0" ><button (click)='showPassword=false' class="btn w-100"><i class="fas fa-eye"></i></button></span>
+                            </div>
+                            <p class="text-danger"
+                                *ngIf="(ref.submitted||refPassword.touched) && refPassword.errors?.required">Password
+                                required</p>
+                            <p class="text-danger"
+                                *ngIf="(ref.submitted||refPassword.dirty) && refPassword.errors?.pattern">Password must
+                                be 8 characters long <br>One Uppercase character <br>One Lowercase character<br>One
+                                Number <br>One special Character</p>
+                        </div>
+                        <div class="mb-3" *ngIf='!showPassword'>
+                            <label for="pw" class="form-label">Password</label>
+                            <div class="input-group">
+                                <input type="text" class="form-control" id="pw" name="password" #refPassword="ngModel"
+                                pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[!@#$%^&*_+=-]).{8,}" required
+                                placeholder="Enter Password.." [(ngModel)]="registerDetails.password">
+                                <span class="input-group-text p-0 m-0" ><button (click)='showPassword=true' class="btn w-100"><i class="fas fa-eye-slash"></i></button></span>
+                            </div>
+                            <p class="text-danger"
+                                *ngIf="(ref.submitted||refPassword.touched) && refPassword.errors?.required">Password
+                                required</p>
+                            <p class="text-danger"
+                                *ngIf="(ref.submitted||refPassword.dirty) && refPassword.errors?.pattern">Password must
+                                be 8 characters long <br>One Uppercase character <br>One Lowercase character<br>One
+                                Number <br>One special Character</p>
+                        </div>
+                        <div class="mb-3">
+                            <label for="pw1" class="form-label">Confirm Password</label>
+                            <input type="password" class="form-control" id="pw1" name="password1"
+                                placeholder="Re Enter Password.." #refPassword='ngModel' [(ngModel)]="registerDetails.password1">
+                            <p class="text-danger"
+                                *ngIf="(ref.submitted||refPassword.touched) && registerDetails.password!==registerDetails.password1">
+                                Both Passwords not matching</p>
+                        </div>
+
+                        <button type="submit" class="btn register text-white d-block mx-auto m-4">Register</button>
+                    </form>
+                    <p class="">Already a member?
+                        <!-- --> <a class="" href="/login">Sign in</a>
+                    </p>
+                </div>
+            </div>
+            <div @slideright class="col-xl-6 col-lg-5 col-md-7 col-sm-12">
+                <div class="display-5 text-white">
+                    Welcome to Daily Fresh
+                </div>
+                <h5 class="mt-3 text-white">
+                    Sign Up to get <span class="text-color" style="font-weight: bold;">50% OFF</span> on your first order
+                </h5>
+                <div class="text-white mt-3">
+                    Facing any problems contact us!!
+                </div>
+                <div class="d-flex justify-content-evenly mt-3">
+                    <a href="mailto:dineshwarreddy619@gmail.com"><img src="../../assets/Images/gmail.svg" width="50px"
+                            class="using" alt=""></a>
+                    <a href="#"><img src="../../assets/Images/instagram.svg" width="50px" class="using" alt=""></a>
+                    <a href="#"><img src="../../assets/Images/twitter.png" width="50px" class="using" alt=""></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

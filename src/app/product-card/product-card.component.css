@@ -1,0 +1,53 @@
+/******
+1.Card
+******/
+.card{
+    border: 0px solid black;
+    position: relative;
+    width: 100%;
+    box-shadow: 1px 1px 5px black;
+}
+
+/******
+2.Button
+******/
+.click{
+    border: 0px solid transparent;
+    margin: 0px;
+    padding: 0px;
+    background-color: hsl(75, 66%, 59%);
+}
+
+.add-to-cart{
+    color: white;
+    width: 90%;
+    position: absolute;
+    display: block;
+    left: 5%;
+    right: 5%;
+    top: 62.5%;
+    background-color:#B56035;
+}
+
+/*************
+3.Sale Element
+**************/
+.sale{
+    width: 35%;
+    position: absolute;
+    padding: 0.25rem;
+    top: 2.5%;
+    left:65%;
+    border:3px solid gold;
+    border-right: 0px solid white;
+}
+
+.sale::after{
+    content: '';
+    position: absolute;
+    right: -5px;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-bottom: 22px solid white;
+    transform: rotate(270deg);
+}

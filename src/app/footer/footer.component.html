@@ -1,0 +1,55 @@
+<div class="footer">
+    <!-- top part -->
+    <div class="d-flex flex-row justify-content-between top-footer">
+        <div class="col d-flex justify-content-center top-footer-1 mt-3">
+            <div class="text-center">
+                <h5 style="height: 20%;">Contact Us</h5>
+                <div class="d-flex justify-content-evenly mt-3">
+                    <a href="mailto:dineshwarreddy619@gmail.com"><img src="../../assets/Images/gmail.svg" width="25px" class="using" alt=""></a>
+                    <a href="#"><img src="../../assets/Images/instagram.svg" width="25px" class="using"  alt=""></a>
+                    <a href="#"><img src="../../assets/Images/twitter.png" width="25px" class="using" alt=""></a>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="col d-flex justify-content-center top-footer-2 mt-3">
+          <div class="text-center">
+              <h5>Shop</h5>
+                <ul class="list-unstyled">
+                    <li><a routerLink="/fruits-vegitables">Fruits & Vegetables</a></li>
+                    <li><a routerLink="/snacks">Snacks</a></li>
+                </ul>
+                <a routerLink="/cart"><h5>Cart</h5></a>
+          </div>  
+        </div>
+        <hr>
+        <div class="col d-flex justify-content-center top-footer-3 mt-3">
+            <div class="text-center">
+                <p>Email Newsletter</p>
+                <form #ref="ngForm" (ngSubmit)="addNewLetterSubscription()">
+                    <div class="input-group mb-3">
+                        <input type="text" class="form-control" name="email" #refEmail='ngModel' pattern="^[a-zA-Z0-9+_.-]+@[a-zA-Z0-9.-]+$" placeholder="Email Address" [(ngModel)]='users.email'>
+                        <button class="input-group-text btn-outline-dark" type="submit" id="submit"><i class="fas fa-angle-right"></i></button>
+                    </div>
+                </form>
+                <div class="text-warning" *ngIf="(ref.submitted||refEmail.dirty) && refEmail.errors?.pattern">This does not look like an Email :(</div>
+            </div>
+        </div>
+    </div>
+<hr>
+<!-- bottom part -->
+<div class="container">
+    <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
+        <div class="col bottom-footer-1">
+            <p>©2021 Brand Name.</p>
+        </div>
+        <div class="col text-center">
+            <div class="d-flex flex-row justify-content-between bottom-footer-2">
+                <p><a href="#">Shipping & Returns</a></p>
+                <p><a href="#">Terms & Conditions</a></p>
+                <p><a href="#">Privacy policy</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+</div>

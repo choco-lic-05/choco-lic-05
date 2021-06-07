@@ -1,0 +1,223 @@
+/*******
+1.TypeWriter
+*******/
+.typewriter {
+    height: 500px;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../../assets/Images/Fruits&vegitables-bg-main.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: white;
+    background-attachment: fixed;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: rgb(255, 106, 106);
+}
+
+h4{
+    margin: 0px;
+    padding: 0px;
+}
+
+@media screen and (max-width:500px) {
+    .typewriter .display-4{
+        font-size: calc(1rem + 1.75vw);
+    }
+}
+/*******
+2.Features
+*******/
+.img-1{
+    background-color: lightgreen;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: visible;
+}
+
+.img-1:hover{
+    transform: scale(1.5);
+    transition: transform 500ms ease-in;
+}
+
+.shake:hover{
+    animation: wobble-hor-bottom 2500ms;
+}
+
+@keyframes wobble-hor-bottom {
+    0%,
+    100% {
+              transform: translateX(0%);
+              transform-origin: 50% 50%;
+    }
+    15% {
+              transform: translateX(-30px) rotate(-6deg);
+    }
+    30% {
+              transform: translateX(15px) rotate(6deg);
+    }
+    45% {
+              transform: translateX(-15px) rotate(-3.6deg);
+    }
+    60% {
+              transform: translateX(9px) rotate(2.4deg);
+    }
+    75% {
+              transform: translateX(-6px) rotate(-1.2deg);
+    }
+}
+
+/**********
+3.Shop Now!!
+**********/
+.snacks,.fruits{
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: 100% 250px;
+    position: relative;
+}
+
+.snacks{
+    background-image: linear-gradient(rgb(255, 255, 255,0.9),rgb(255, 255, 255,0.7)),url(../../assets/Images/Snacks-1.jpg);
+}
+
+.fruits{
+    background-image: linear-gradient(rgb(255, 255, 255,0.8),rgb(255, 255, 255,0.6)),url(../../assets/Images/fruits-1.jpg);
+}
+
+.snacks-txt,.fruits-txt{
+    position: absolute;
+    top: 40%;
+}
+
+.snacks:hover,.fruits:hover{
+    transform: scale(1.1);
+    transition: transform 1000ms;
+}
+
+.snacks:hover .snacks-txt{
+    top: 25%;
+    transition: top 1000ms;
+}
+
+.fruits:hover .fruits-txt{
+    top: 25%;;
+    transition: top 1000ms;
+}
+
+@media screen and (max-width:992px) {
+    .snacks-txt,.fruits-txt{
+        position: absolute;
+        top: 20%;
+    }
+}
+
+/**********
+4.Why Choose Us
+**********/
+.farmers{
+    background-image: linear-gradient(to right, rgb(0,0,0,0.9),rgb(0,0,0,0.3)),url(../../assets/Images/local-framers.jpg);
+    background-size: 100% 200px;
+    height: 200px;
+}
+
+.variety{
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.9),rgba(255, 255, 255, 0.3)),url(../../assets/Images/Variety.jpg);
+    background-size: 100% 200px;
+    height: 200px;
+}
+
+.price{
+    background-image: linear-gradient(to right, rgb(0,0,0,0.9),rgb(0,0,0,0.3)),url(../../assets/Images/Price.jpg);
+    background-size: 100% 200px;
+    height: 200px;
+}
+
+.farmers:hover,.variety:hover,.price:hover{
+    animation: shadow-drop-2-center 1s ease forwards;
+}
+
+@keyframes shadow-drop-2-center {
+    0% {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+      -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+              box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+    }
+    100% {
+      -webkit-transform: scale(1.1);
+              transform: scale(1.1);
+      -webkit-box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.35);
+              box-shadow: 10px 10px 1px 0px rgba(0, 0, 0, 0.5);
+    }
+  }
+/**********
+5.Coustmer Reviews
+**********/
+.coustmer-review{
+    background-image: url(../../assets/Images/CoustmerReview-1.jpg);
+    height: 500px;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.carousel-item{
+    margin-top: 10%;
+}
+
+.d-grid{
+    display: grid;
+    place-items: center;
+}
+
+.profile{
+    border-radius: 50%;
+}
+
+/**********
+6.Email Newsletter
+**********/
+.email-newsletter{
+    background-image:  linear-gradient(to right, rgba(0, 0, 0, 0.7),rgba(255, 255, 255, 0.7)),url(../../assets/Images/Fruits&vegetables-bg-right-1.jpg);
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: 100% 400px;
+    position: relative;
+}
+.email-newsletter .card{
+    position: absolute;
+    top: 60%;
+    right: 10%;
+    box-shadow: 2px 2px 3px black;
+}
+.email-newsletter:hover .card{
+    animation: text-pop-up-top 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) forwards;
+}
+
+@keyframes text-pop-up-top {
+    0% {
+      -webkit-transform: translateY(0);
+              transform: translateY(0);
+      -webkit-transform-origin: 50% 50%;
+              transform-origin: 50% 50%;
+      text-shadow: none;
+    }
+    100% {
+      -webkit-transform: translateY(-50px);
+              transform: translateY(-50%);
+      -webkit-transform-origin: 50% 50%;
+              transform-origin: 50% 50%;
+      }
+  }
+
+@media screen and (max-width:525px) {
+    .email-newsletter .card{
+        top: 50%;
+        right:0%;
+    }
+}

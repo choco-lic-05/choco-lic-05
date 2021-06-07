@@ -1,0 +1,43 @@
+.body {
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.5), rgba(0, 0, 0, 0.5)), url(../../assets/Images/login-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.card {
+    color: white;
+    padding: 1rem;
+    background-color: rgb(40, 116, 40);
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.register{
+    background-color: #F29366;
+}
+
+.text-color{
+    color: rgb(0, 0, 0);
+}
+
+a {
+    text-decoration: none;
+}
+
+@media screen and (max-width:786px) {
+    .card {
+        margin-top: 10%;
+        margin-bottom: 10%;
+        background-color: hsl(190, 80%, 88%);
+    }
+    .flex-row{
+        flex-direction: column-reverse!important;
+    }
+    .body {
+        background-image: linear-gradient(to right, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url(../../assets/Images/login-bg.jpg);
+    }
+    .display-5{
+        margin-top: 3rem;
+    }
+}

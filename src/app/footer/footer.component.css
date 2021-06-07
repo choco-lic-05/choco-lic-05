@@ -1,0 +1,37 @@
+/**
+1.Body
+**/
+.footer{
+    width: 100%;
+    background-color: rgb(40, 116, 40);
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: rgb(255, 106, 106);
+}
+
+/******
+2.Media Queries
+*****/
+
+@media screen and (max-width:768px){
+    .top-footer{
+        flex-direction: column!important;
+    }
+}
+
+@media screen and (max-width:576px){
+    .bottom-footer-1{
+        text-align: center;
+    }
+    
+    .bottom-footer-2{
+        flex-direction: column!important;
+    }
+}

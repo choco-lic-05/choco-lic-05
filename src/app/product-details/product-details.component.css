@@ -1,0 +1,39 @@
+.images-carousel{
+    display: none;
+}
+
+.save{
+    border-radius: 10%;
+    background-color: rgba(255, 106, 106, 0.561);
+    color: red;
+}
+
+.add-to-cart{
+    background-color: #e66626;
+    width: 90%;
+    border-radius: 8%;
+    margin-top: 2rem;
+    border: 0px solid transparent;
+}
+
+.add-to-cart:hover{
+    box-shadow: 5px 5px 20px black;
+}
+
+@media screen and (max-width:768px) {
+    .flex-row{
+        flex-direction: column!important;
+    }
+    .images-static{
+        display: none;
+    }
+    .images-carousel{
+        display: block;
+    }
+    body{
+        position: relative;
+    }
+    .container{
+        margin-top: 0px!important;
+    }
+}

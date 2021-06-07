@@ -1,0 +1,62 @@
+<div class="body">
+    <div class="container">
+        <div class="row h-100 w-100 d-flex justify-content-center align-items-center">
+            <div @slideleft class="col-lg-7 col-md-5 col-sm-4 col-12 mt-5 mb-5">
+                <div class="display-5">
+                    Welcome to Daily Fresh
+                </div>
+                <h5 class="mt-3">
+                    Login into your account to continue..
+                </h5>
+                <div class="text-muted mt-3">
+                    Facing any problems contact us!!
+                </div>
+                <div class="d-flex justify-content-evenly mt-3">
+                    <a href="mailto:dineshwarreddy619@gmail.com"><img src="../../assets/Images/gmail.svg" width="50px"
+                            class="using" alt=""></a>
+                    <a href="#"><img src="../../assets/Images/instagram.svg" width="50px" class="using" alt=""></a>
+                    <a href="#"><img src="../../assets/Images/twitter.png" width="50px" class="using" alt=""></a>
+                </div>
+                <div class="mt-3">
+                    <a routerLink="/register">New to Daily Fresh</a>
+                </div>
+            </div>
+            <div @slideright class="col-lg-5 col-md-7 col-sm-8 col-12">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="display-6">Sign In</h3>
+                        <form class="text-white" #ref="ngForm">
+                            <div class="mb-3">
+                                <label for="un" class="form-label">Username</label>
+                                <input type="text" class="form-control" id="un" name="username"
+                                    placeholder="Enter Username.." [(ngModel)]='userDetails.username'>
+                            </div>
+                            <div class="mb-3" *ngIf='showPassword'>
+                                <label for="pw" class="form-label">Password</label>
+                                <div class="input-group">
+                                    <input type="password" class="form-control" id="pw" name="password"
+                                        placeholder="Enter Password.." [(ngModel)]='userDetails.password'>
+                                    <span class="input-group-text p-0 m-0" ><button (click)='showPassword=false' class="btn w-100"><i class="fas fa-eye"></i></button></span>
+                                </div>
+                            </div>
+                            <div class="mb-3" *ngIf='!showPassword'>
+                                <label for="pw" class="form-label">Password</label>
+                                <div class="input-group">
+                                    <input type="text" class="form-control" id="pw" name="password"
+                                        placeholder="Enter Password.." [(ngModel)]='userDetails.password'>
+                                    <span class="input-group-text p-0 m-0" ><button (click)='showPassword=true' class="btn w-100"><i class="fas fa-eye-slash"></i></button></span>
+                                </div>
+                            </div>
+                            <a href="" class="text-info">Forgot Password?</a>
+
+
+                            <button type="submit" class="btn login d-block mx-auto m-4">Login</button>
+                        </form>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+</div>

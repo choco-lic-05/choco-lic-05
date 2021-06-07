@@ -1,0 +1,15 @@
+<div class="card" (mouseenter)='displayButton=true' (mouseleave)='displayButton=false'>
+    <img *ngIf='displayImage2' @opacity (mouseleave)='displayImage2=false' class="image-1"
+        src={{productData.images[1].file.url}} width="100%" height="300px" alt="">
+    <img *ngIf='!displayImage2' @opacity (mouseenter)='displayImage2=true' class="image-2"
+        src={{productData.images[0].file.url}} width="100%" height="300px" alt="">
+    <span class="bg-danger text-white sale" *ngIf='discount>0'> {{ discount | number:'1.0-0'}}% off</span>
+    <button *ngIf='displayButton' (click)="addToCart()" @popup class="add-to-cart btn">Add to Cart</button>
+    <button class="click" (click)='onSelectProduct(productData.id)'>
+        <div class="card-body">
+            <h6>{{productData.name}}</h6>
+            <p> <s> {{productData.price | currency:'INR'}} </s> </p>
+            <span class="text-danger"> {{productData.sale_price | currency:'INR'}} </span>
+        </div>
+    </button>
+</div>

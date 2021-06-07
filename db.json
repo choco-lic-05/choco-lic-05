@@ -1,0 +1,1735 @@
+{
+  "fruits_vegitables": [
+    {
+      "name": "Fresho Mushrooms  1 pack",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b3093719f8ea212d5102db",
+            "date_uploaded": "2021-05-30T03:40:39.369Z",
+            "length": 4204,
+            "md5": "cc330c08203b85a806ecc26e614d41ba",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b8b615497e9173fbfb19df/1734688bcf9e4226656a0c3785788065",
+            "width": 150,
+            "height": 150
+          },
+          "id": "60b3095eecdad660eb9d326a"
+        },
+        {
+          "file": {
+            "id": "60b3094a847c745755d63948",
+            "date_uploaded": "2021-05-30T03:40:58.971Z",
+            "length": 25500,
+            "md5": "736b07ba99f3dcd699f7f91c7ce105a0",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b3094a847c745755d63948/736b07ba99f3dcd699f7f91c7ce105a0",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b3095eecdad660eb9d326b"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 60,
+      "sale_price": 45,
+      "variable": false,
+      "description": "Buttom mushrooms are very small sized mushrooms with smooth round caps and short stems. They have a mild flavour with a good texture that becomes more fragrant and meaty when cooked.<br>",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "fresho-mushrooms-1-pack",
+      "attributes": {
+        "benifits": "Button mushrooms boost our immune system. They have anti-cancer benefits. They contain good amounts of riboflavin which is necessary to maintain oral health. They are very low in calories and rich in fiber.",
+        "storage_uses": "Do not store them in a plastic bag as they tend to deteriorate. Refrigerate them in a paper towel or a paper bag. Button mushrooms can be sliced and added to soups, pizzas, and pasta. They can also be added in stews, rice, noodles and can be stir-fried with seafood and chicken."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T03:41:18.492Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T03:42:03.009Z",
+      "id": "1"
+    },
+    {
+      "name": "Fresho Beetroot, 500 g",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b307ababf05f198bb52147",
+            "date_uploaded": "2021-05-30T03:34:03.271Z",
+            "length": 30792,
+            "md5": "35d967280298b764787582e851f4ffc7",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b307ababf05f198bb52147/35d967280298b764787582e851f4ffc7",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b3080219f8ea212d50fac6"
+        },
+        {
+          "file": {
+            "id": "60b307b0e3903e19f82be859",
+            "date_uploaded": "2021-05-30T03:34:08.520Z",
+            "length": 31600,
+            "md5": "330b1bd236f7babf26e886aa2deb8680",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b307b0e3903e19f82be859/330b1bd236f7babf26e886aa2deb8680",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b3080219f8ea212d50fac7"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 22,
+      "sale_price": 11,
+      "variable": false,
+      "description": "These edible ruby red roots are smooth and bulbous and have the highest sugar content than any other vegetable.",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "fresho-beetroot-500-g",
+      "attributes": {
+        "benifits": "Red beets lower blood pressure, promotes brain and heart health. It fights inflammation and boosts energy levels.",
+        "storage_uses": "While storing beets, trim the leaves 2 inches from the root soon after you buy them as they sap the moisture from the beet root. The root bulbs should also be put into a bag and can be stored in the refrigerator for a maximum of 7 to 10 days. They are used to prepare curries, chutneys and raithas. It's sweet nature makes it a popular ingredient for halwas and other such sweets."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T03:35:30.770Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T03:42:03.070Z",
+      "id": "2"
+    },
+    {
+      "name": "Fresho Capsicum 500 g",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b30753e3903e19f82be5ab",
+            "date_uploaded": "2021-05-30T03:32:35.762Z",
+            "length": 21912,
+            "md5": "28c7a7904488cb22cf9d8c09c99243b3",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b30753e3903e19f82be5ab/28c7a7904488cb22cf9d8c09c99243b3",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b30766abf05f198bb51e86"
+        },
+        {
+          "file": {
+            "id": "60b30760abf05f198bb51e79",
+            "date_uploaded": "2021-05-30T03:32:48.618Z",
+            "length": 21328,
+            "md5": "42eb4bcc1a5629d17877b2ba6e69291e",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b30760abf05f198bb51e79/42eb4bcc1a5629d17877b2ba6e69291e",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b30766abf05f198bb51e87"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 25,
+      "sale_price": 12,
+      "variable": false,
+      "description": "Leaving a moderately pungent taste on the tongue, Green capsicums, also known as green peppers are bell shaped, medium-sized fruit pods.<br>They have thick and shiny skin with a fleshy texture inside.",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "fresho-capsicum-500-g",
+      "attributes": {
+        "benifits": "Green capsicums have powerful antioxidants and anti-inflammatory properties. Rich in Vitamin A, B complex, C and phytonutrients. Relieves pain of bone disorders and has the capacity to relax the repirartory passage.",
+        "storage_uses": "Store them in a cool, dry place away from direct sunlight. Keep capsicums dry as moisture makes them rot faster. Refrigerate the peppers unwashed, in a plastic bag and consume within a week. Resort to refrigeration only when they cannot be consumed immediately. Green bell peppers can be used for a wide variety of dishes due to its distinct flavour and scent. Can be grilled,roasted, baked and sauteed. Widely used in salads, pastas, pizzas, pepper sauce and even for flavouring curries."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T03:32:54.911Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T03:42:03.032Z",
+      "id": "3"
+    },
+    {
+      "name": "Fresho Brinjal  500 g",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b30683e2893c123e22b0e9",
+            "date_uploaded": "2021-05-30T03:29:07.570Z",
+            "length": 11184,
+            "md5": "9de36925512c888e03497197b9d5ae71",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b30683e2893c123e22b0e9/9de36925512c888e03497197b9d5ae71",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b306aa021ada2037c76e25"
+        },
+        {
+          "file": {
+            "id": "60b30699abf05f198bb51596",
+            "date_uploaded": "2021-05-30T03:29:29.228Z",
+            "length": 11696,
+            "md5": "e124e2b4e82d8c180bba0679c58e3759",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b30699abf05f198bb51596/e124e2b4e82d8c180bba0679c58e3759",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b306aa021ada2037c76e26"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 25,
+      "sale_price": 20,
+      "variable": false,
+      "description": "Deep purple and oval shaped bottle brinjals are glossy skinned vegetables with a white and have a soft flesh.",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "fresho-brinjal-500-g",
+      "attributes": {
+        "benifits": "Bottle brinjals are a nutritionally rich food item. They are rich in dietery fibres, Vitamin C and K, phytonutrient compounds and anti-oxidants. They help in keeping cholesterol levels in check and helps in weight loss while being excellent for controlling blood sugar levels and are also known for preventing cancer and heart diseases.",
+        "storage_uses": "Brinjals are not good for long time storing. So, consume within a few days and store in a cool spot, away from direct sunlight. If not consumed within 2 days, refrigerate by wrapping in a paper towel or perforated plastic bag and use within a week. The inner white flesh turns brown quickly once its cut, so use it as soon as you cut them or refrigerate by placing the remaining on a bowl or plate, but avoid sealing, as it increases decay. Brinjals are a prominent part of Indian dry and gravy curries. Also used in lentil soups , stews and rice items. Can be roasted, grilled, baked and stir-fried. Look up the local and popular Vaangibath recipe."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T03:29:46.675Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T03:42:03.040Z",
+      "id": "4"
+    },
+    {
+      "name": "Fresho Carrot  500 g",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b303e3e2893c123e229e74",
+            "date_uploaded": "2021-05-30T03:17:55.030Z",
+            "length": 20472,
+            "md5": "e1705fd3c7402d0f517f63e5f1ef49b6",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b303e3e2893c123e229e74/e1705fd3c7402d0f517f63e5f1ef49b6",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b30401e2893c123e229e95"
+        },
+        {
+          "file": {
+            "id": "60b303ede3903e19f82b4ed3",
+            "date_uploaded": "2021-05-30T03:18:05.107Z",
+            "length": 15688,
+            "md5": "05f57ab8725a16337d2bbda6d7c6073f",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b303ede3903e19f82b4ed3/05f57ab8725a16337d2bbda6d7c6073f",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b30401e2893c123e229e96"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 40,
+      "sale_price": 15,
+      "variable": false,
+      "description": "A popular sweet-tasting root vegetable, Carrots are narrow and cone shaped.<br>They have thick, fleshy, deeply colored root, which grows underground, and feathery green leaves that emerge above the ground.<br>While these greens are fresh tasting and slightly bitter, the carrot roots are crunchy textured with a sweet and minty aromatic taste.<br>Fresho brings you the flavour and richness of the finest bright orange, crispy and juicy carrots.",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "fresho-carrot-500-g",
+      "attributes": {
+        "benifits": "Carrots provide the highest content of vitamin A of all the vegetables. Brightly orange colored carrots have pigments like carotenoids and flavonoids, that provide several antioxidants and act as a defense against cancer. They aid in maintaining oral health and also decrease the risk of stroke and other heart diseases.",
+        "storage_uses": "Refrigerate carrots in a mesh bag. Alternatively to retain freshness and for more longevity, trim off the greens and put whole carrots in a container of water and refrigerate. With this method, they stay nice and crunchy. If the water starts to look cloudy, change it with fresh water. Stored this way, carrots can last for even a month with no ill effects and dont wilt easily. Carrots have a mild, pleasant flavour that is great by themselves or blended with other foods."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T03:18:25.727Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T03:42:03.033Z",
+      "id": "5"
+    },
+    {
+      "name": "Fresho Potato, 1 kg",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b302c219f8ea212d50baad",
+            "date_uploaded": "2021-05-30T03:13:06.468Z",
+            "length": 11952,
+            "md5": "769abcb8dd9484a9b0bf1cb400b57acb",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b302c219f8ea212d50baad/769abcb8dd9484a9b0bf1cb400b57acb",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b30346f6496750bba94307"
+        },
+        {
+          "file": {
+            "id": "60b302caa20e3e0b4f888ae6",
+            "date_uploaded": "2021-05-30T03:13:14.618Z",
+            "length": 19332,
+            "md5": "897eaa0192924b763e7976b5ca305146",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b302caa20e3e0b4f888ae6/897eaa0192924b763e7976b5ca305146",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b30346f6496750bba94308"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 35,
+      "sale_price": 22,
+      "variable": false,
+      "description": "Fresho Potatoes are nutrient-dense, non-fattening and have reasonable amount of calories. Include them in your regular meals so that the body receives a good supply of carbohydrates, dietary fibers and essential minerals such as copper, magnesium, and iron. In India, potatoes are probably the second-most consumed vegetables after onions.<br>",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "fresho-potato-1-kg",
+      "attributes": {
+        "benifits": "Consumption of potatoes helps to maintain the blood glucose level and keeps the brain alert and active. Potatoes should be included in the diet of those having mouth ulcers. As they are easy to digest, they are good for patients. People who are diagnosed with kidney stones or heart disorders can include potatoes in their diet as they are light on the stomach. Apart from containing useful minerals such as potassium, iron, copper and magnesium, potatoes are also full of phytochemical antioxidants such as flavonoids, Vitamin B and folate.",
+        "storage_uses": "Potatoes should always be stored in a cool, dark and dry place that is preferably in your visibility.If not attended to for a long time these potatoes will begin to sprout due to preferable environment conditions like that under the soil and end up loosing nutritional value. Never keep under direct sunlight as they soon turn green due to the chlorophyll produced which releases some toxic substances.Refrigeration adversely affects the flavour of potatoes, therefore it is best to store them in paper bags. Remember, plastic bags promote moisture and speed decay process."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T03:15:18.439Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T03:42:03.046Z",
+      "id": "6"
+    },
+    {
+      "name": "Fresho Lemon, 250 g",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b3021b19f8ea212d50b751",
+            "date_uploaded": "2021-05-30T03:10:19.730Z",
+            "length": 10436,
+            "md5": "cdfe57dcc952aebd461600f40e49b435",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b3021b19f8ea212d50b751/cdfe57dcc952aebd461600f40e49b435",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b30284f6496750bba93b42"
+        },
+        {
+          "file": {
+            "id": "60b30238a20e3e0b4f8887bd",
+            "date_uploaded": "2021-05-30T03:10:48.615Z",
+            "length": 9840,
+            "md5": "58617d5d51f06d8e96d8cf7bce7ca428",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b30238a20e3e0b4f8887bd/58617d5d51f06d8e96d8cf7bce7ca428",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b30284f6496750bba93b43"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 45,
+      "sale_price": 32,
+      "variable": false,
+      "description": "With a segmented flesh that has a unique pleasant aroma and a strong sour taste, lemons are round/oval and have a yellow, texturized external peel.<br>",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "fresho-lemon-250-g",
+      "attributes": {
+        "benifits": "Lemon promotes hydration and keeps the skin healthy. They help ease digestion, prevents kidney stones and freshens breath. Lemons are a very good source of Vitamin C. Tip:-Lemon mixed with honey and water acts as a detoxifying agent.",
+        "storage_uses": "Refrigerate them in a sealed plastic bag. Fresh lemon juice is squeezed and added to many dishes like lemon rice, lemon tea and beverages like lemonades. The lemon peel is also edible and highly nutritious."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T03:12:04.941Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T03:42:03.029Z",
+      "id": "7"
+    },
+    {
+      "name": "Fresho Watermelon 1 pc",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b300e1e73e6a19737fbb17",
+            "date_uploaded": "2021-05-30T03:05:05.656Z",
+            "length": 17284,
+            "md5": "41d0cb5056933d917a211f8d5f89f675",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b300e1e73e6a19737fbb17/41d0cb5056933d917a211f8d5f89f675",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b3019a07fe3b078d68786f"
+        },
+        {
+          "file": {
+            "id": "60b300e9b600ad60a3905ae6",
+            "date_uploaded": "2021-05-30T03:05:13.927Z",
+            "length": 15064,
+            "md5": "d4e6117dfc5b702ec6fcc33541df0572",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b300e9b600ad60a3905ae6/d4e6117dfc5b702ec6fcc33541df0572",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b3019a07fe3b078d687870"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 62,
+      "sale_price": 55,
+      "variable": false,
+      "description": "With greenish black to smooth dark green surface, we selectively pick organically grown watermelons from the best farms<br>These watermelons have juicy, sweet and grainy textured flesh filled with 12-14% of sugar content, making it a healthy alternative to sugary carbonated drinks. Flesh colour of these are pink to red with dark brown/black seeds.<br>",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "fresho-watermelon-1-pc",
+      "attributes": {
+        "benifits": "Watermelons have excellent hydrating properties with 90% water content. Rich in anti-oxidant flavonoids that protects against prostate, breast, colon, pancreatic and lung cancers. They are an excellent source of lycopene which protects skin against harmful UV rays. It is also a great source for A, C, B-complex vitamins, iron and fiber which boosts body metabolism.",
+        "storage_uses": "Store them in a cool, dry place away from direct sunlight. Cut and serve the melons chilled.  Can be eaten fresh- scoop them up with ice creams or in fruit salads.Spice up your watermelon with a tinge of mint leaves.  Used in cocktails and fresh juices which also serves as a healthy alternative to sugary carbonated drinks. Rind can be used to prepare pickles, curries and pies. Seeds can be roasted with salt and consumed."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T03:08:10.386Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T03:42:03.036Z",
+      "id": "8"
+    },
+    {
+      "name": "Fresho Drumstick 250 g",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b2ecf8c07864065676510b",
+            "date_uploaded": "2021-05-30T01:40:08.487Z",
+            "length": 15912,
+            "md5": "25d29a955e6f20b0afd4bdd56e1facd0",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2ecf8c07864065676510b/25d29a955e6f20b0afd4bdd56e1facd0",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2ed04efb39e09f15c79d4"
+        },
+        {
+          "file": {
+            "id": "60b2ed008d7d900a45b6a3fd",
+            "date_uploaded": "2021-05-30T01:40:16.118Z",
+            "length": 56036,
+            "md5": "e43edb469f2bd64fdbde237cf7a29fce",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2ed008d7d900a45b6a3fd/e43edb469f2bd64fdbde237cf7a29fce",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2ed04efb39e09f15c79d5"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 35,
+      "sale_price": 23,
+      "variable": false,
+      "description": "Drumsticks have long, dark green bumpy pods running along the length and fleshy pulp inside the pod encasing each seed.<br>These pods have a faint bitter taste combined with slight sweetness.",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "fresho-drumstick-250-g",
+      "attributes": {
+        "benifits": "Drumsticks are rich in antioxidants that reduce the risk of heart diseases and type 2 diabetes. They are also a rich source of vitamin B, C and Iron that reduces inflammation and are good for skin, teeth and bones.",
+        "storage_uses": "Make sure there is no moisture on the drumstick. Chop it into pieces and refrigerate in an air tight container. Cut them into finger length pieces and use them in sambar, curries, etc."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T01:40:20.238Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T01:41:35.545Z",
+      "id": "9"
+    },
+    {
+      "name": "Fresho Broccoli, 1 pc",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b2ec4ef7966b0ed1076e59",
+            "date_uploaded": "2021-05-30T01:37:18.521Z",
+            "length": 32284,
+            "md5": "e9fc38526d8eecaab8f99aeb966f49f4",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2ec4ef7966b0ed1076e59/e9fc38526d8eecaab8f99aeb966f49f4",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2ec608d7d900a45b6a169"
+        },
+        {
+          "file": {
+            "id": "60b2ec5be2893c123e21e526",
+            "date_uploaded": "2021-05-30T01:37:31.866Z",
+            "length": 54112,
+            "md5": "34e09fb8688c0e88f26f4f8654070f88",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2ec5be2893c123e21e526/34e09fb8688c0e88f26f4f8654070f88",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2ec608d7d900a45b6a16a"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 52,
+      "sale_price": 45,
+      "variable": false,
+      "description": "With a shape resembling that of a cauliflower, Brocollis have clusters of small, tight flower heads. These heads turn bright green on cooking and tastes slightly bitter.<br>",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "fresho-broccoli-1-pc",
+      "attributes": {
+        "benifits": "Broccoli prevents cancer and reduces cholesterol. Maintains bone and heart health. Good for skin, eyes and has anti-aging properties.",
+        "storage_uses": "Consume fresh broccoli as soon as you can as it will not keep for long. To store, drizzle water droplets on the flower heads, cover loosely in damp paper towels and refrigerate. But never wash broccoli before storing in the refrigerator. The excess moisture promotes mold. Do not store broccoli in a sealed container or plastic bag. Raw broccolis requires air circulation."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T01:37:36.109Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T01:41:35.557Z",
+      "id": "10"
+    },
+    {
+      "name": "Fresho Tomato",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b2eb62a20e3e0b4f84e1e0",
+            "date_uploaded": "2021-05-30T01:33:22.497Z",
+            "length": 14256,
+            "md5": "9ee7cf22e3912c67851baada546ddee8",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2eb62a20e3e0b4f84e1e0/9ee7cf22e3912c67851baada546ddee8",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2ebc5f7966b0ed107250a"
+        },
+        {
+          "file": {
+            "id": "60b2ebbfc0786406567644ca",
+            "date_uploaded": "2021-05-30T01:34:55.852Z",
+            "length": 13248,
+            "md5": "6d67d61e3fb2a0d5085bbc9ad91b7ec3",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2ebbfc0786406567644ca/6d67d61e3fb2a0d5085bbc9ad91b7ec3",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2ebc5f7966b0ed107250b"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 10,
+      "sale_price": 7.5,
+      "variable": false,
+      "description": "Fresho brings to you an exquisite range of locally grown organic tomatoes, which are now available at bigbasket. These organic tomatoes are free from harmful pesticides and insecticides and thus have a very natural and tangy taste, which is attributed to its healthy soil growth. The ripe and firm tomatoes are a luscious addition to any meal.<br>",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "fresho-tomato",
+      "attributes": {
+        "benifits": "Organic tomatoes are free from harmful chemicals and toxins, plus they are also rich in antioxidants that helps fight diseases like cancer. It also a healthy source of Vitamin C and A (being rich in beta-carotene) along with niacin and folate",
+        "storage_uses": "Tomatoes can be sliced up and used in salads or eaten on their own. You can boil and puree them for pasta sauces, stews, soups or even Pizza (works well with herbs like basil). You can scoop their interiors and stuff it veggies or meat to make stuffed tomatoes and bake them in the oven."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T01:35:01.341Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T01:41:35.558Z",
+      "id": "11"
+    },
+    {
+      "name": "Fresho Cauliflower",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b2eb0ec7e9875d4dfd9392",
+            "date_uploaded": "2021-05-30T01:31:58.824Z",
+            "length": 22928,
+            "md5": "d158ea3b2a14d200510077314585ae12",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2eb0ec7e9875d4dfd9392/d158ea3b2a14d200510077314585ae12",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2eb24b600ad60a38ef13f"
+        },
+        {
+          "file": {
+            "id": "60b2eb15e73e6a19737f1d1f",
+            "date_uploaded": "2021-05-30T01:32:05.264Z",
+            "length": 30544,
+            "md5": "6873274450655c11ae46060ade31215d",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2eb15e73e6a19737f1d1f/6873274450655c11ae46060ade31215d",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2eb24b600ad60a38ef140"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 25,
+      "sale_price": 23,
+      "variable": false,
+      "description": "Cauliflower is made up of tightly bound clusters of soft, crumbly, sweet cauliflower florets that form a dense head.<br>Resembling a classic tree, the florets are attached to a central edible white trunk which is firm and tender.",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "fresho-cauliflower",
+      "attributes": {
+        "benifits": "One serving of cauliflower contains 77 percent of daily recommended value of vitamin C. Cauliflowers are rich in B complex vitamins, potassium and manganese.They protect from the risk of heart diseases and brain disorders.",
+        "storage_uses": "Refrigerate in a loosely sealed plastic bag. It keeps well for upto 7 days. Do not store florets for more than 5 days. Cooked and used in soups, rice, curries, gobi parathas( flat breads), one of the most liked recipes."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T01:32:20.234Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T01:41:35.564Z",
+      "id": "12"
+    },
+    {
+      "name": "Fresho Onion",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b2ea2050e5b55ca858359e",
+            "date_uploaded": "2021-05-30T01:28:00.023Z",
+            "length": 15320,
+            "md5": "cc0c6ab2a4cc1983a8e760cf7238d3fe",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2ea2050e5b55ca858359e/cc0c6ab2a4cc1983a8e760cf7238d3fe",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2ea7e50e5b55ca85836fd"
+        },
+        {
+          "file": {
+            "id": "60b2ea33eecf9f116c90c897",
+            "date_uploaded": "2021-05-30T01:28:19.383Z",
+            "length": 15632,
+            "md5": "745b049ff33053bf51d9ab2271402652",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2ea33eecf9f116c90c897/745b049ff33053bf51d9ab2271402652",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2ea7e50e5b55ca85836fe"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 35,
+      "sale_price": 30,
+      "variable": false,
+      "description": "Onion is a vegetable which is almost like a staple in Indian food. This is also known to be one of the essential ingredients of raw salads. They come in different colours like white, red or yellow and are quite in demand in cold salads and hot soups.You can dice, slice or cut it in rings and put it in burgers and sandwiches. Onions emit a sharp flavour and fragrance once they are fried; it is due to the sulphur compound in the vegetable.Onions are known to be rich in biotin.",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "fresho-onion",
+      "attributes": {
+        "benifits": "Onions are known to have antiseptic, antimicrobial and antibiotic properties which help you to get rid of infections. If a piece of onion is inhaled, it can slow down or stop nose bleeding. Those who have sleeping disorders or insomnia can have a good night sleep if they have an onion every day. Onions also help to improve the functions of the digestive system; because it releases the digestive juices and cures any problem related to digestion.",
+        "storage_uses": "Store in a cool dry place, need not refridgerate. Freezing onions, soaking them under water and keeping the root intact before chopping are some methods to reduce tears while chopping them."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T01:29:34.459Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T01:41:35.530Z",
+      "id": "13"
+    },
+    {
+      "name": "Fresho Raspuri Mango",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b2e94c057a0959c2210dde",
+            "date_uploaded": "2021-05-30T01:24:28.809Z",
+            "length": 12200,
+            "md5": "6b81fcf6045cf1fbbe96a6d44daf09af",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2e94c057a0959c2210dde/6b81fcf6045cf1fbbe96a6d44daf09af",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2e9f5b600ad60a38ee75c"
+        },
+        {
+          "file": {
+            "id": "60b2e95a513cd9621be0ca83",
+            "date_uploaded": "2021-05-30T01:24:42.857Z",
+            "length": 16076,
+            "md5": "377f9841bb605916c3c3922d8dcba9ac",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2e95a513cd9621be0ca83/377f9841bb605916c3c3922d8dcba9ac",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2e9f5b600ad60a38ee75d"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 75,
+      "sale_price": 65,
+      "variable": false,
+      "description": "<ul><li>Popularly grown in the Mysore region of Karnataka, Raspuri mangoes have a juicy flesh with rich sweet taste and an excellent flavour.</li><li>We source the best Raspuri mangoes directly from the farmers of Mysore, Karnataka.</li><li>Never miss the mangoes during the season.</li></ul>",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "fresho-raspuri-mango",
+      "attributes": {
+        "benifits": "t is a good source of vitamin A, C and Potassium. It maintains healthy skin and alkalises the whole body.",
+        "storage_uses": " Store mangoes at room temperature. Squeeze the mango gently. Ripe mangoes are softer and have fruity aroma at stem ends. Check for it before consumption. Good to make juices and shakes owing to its juicy texture."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T01:27:17.309Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T01:41:35.549Z",
+      "id": "14"
+    },
+    {
+      "name": "Fresho Pomegranate",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b2e689593bd4101a25e5b9",
+            "date_uploaded": "2021-05-30T01:12:41.848Z",
+            "length": 20452,
+            "md5": "b1ad5f52be5d37fa974a1c2bf7f0f758",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2e689593bd4101a25e5b9/b1ad5f52be5d37fa974a1c2bf7f0f758",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2e691f2095a7be2252bc1"
+        },
+        {
+          "file": {
+            "id": "60b2e68df7966b0ed102f139",
+            "date_uploaded": "2021-05-30T01:12:45.068Z",
+            "length": 13208,
+            "md5": "c2e2eb64451fad116b7432a4d4f215a2",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2e68df7966b0ed102f139/c2e2eb64451fad116b7432a4d4f215a2",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2e691f2095a7be2252bc2"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 160,
+      "sale_price": 129,
+      "variable": false,
+      "description": "Fresho Organic products are organically grown and handpicked by expert.<br>Product image shown is for representation purpose only, the actually product may vary based on season, produce &amp; availability.<br>",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "fresho-pomegranate",
+      "attributes": {
+        "benifits": null
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T01:12:49.131Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T01:41:35.561Z",
+      "id": "15"
+    },
+    {
+      "name": "Fresho Grapes - Sonaka Seedless",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b2df8450e5b55ca85813c1",
+            "date_uploaded": "2021-05-30T00:42:44.277Z",
+            "length": 14400,
+            "md5": "b3cd19b3fc55f536eba8dc084d48ebcc",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2df8450e5b55ca85813c1/b3cd19b3fc55f536eba8dc084d48ebcc",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2e1adefb39e09f15994bf"
+        },
+        {
+          "file": {
+            "id": "60b2e24af7966b0ed102e5cb",
+            "date_uploaded": "2021-05-30T00:54:34.245Z",
+            "length": 20800,
+            "md5": "e3133adb948d2ca0bb43c39b684a619d",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2e24af7966b0ed102e5cb/e3133adb948d2ca0bb43c39b684a619d",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2e250f2095a7be22480fa"
+        }
+      ],
+      "bundle": false,
+      "sale": true,
+      "price": 72,
+      "sale_price": 66,
+      "prices": [],
+      "variable": false,
+      "description": null,
+      "tags": [],
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "fresho-grapes-sonaka-seedless",
+      "attributes": {
+        "benifits": " Green seedless grapes are rich in antioxidant properties and fibres. They reduce inflammations and help in weight loss. Grapes are good source of Vitamin C,K,B6, They also promote heart health and strengthen immunity.",
+        "storage_uses": "Wash the grapes under cool, running water. Pat them dry and store it in the refrigerator. Rinse well and eat them right off the vine for a healthy, refreshing snack any time of day. You can also freeze them and toss them in drinks. Make your salads and curd rice colourful by adding these refreshing and sweet grapes."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "options": [],
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T00:51:57.211Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T01:41:35.612Z",
+      "category_index": {
+        "sort": {
+          "60b1fb304a48b82c2efbad1d": 0
+        },
+        "id": [
+          "60b1fb304a48b82c2efbad1d"
+        ]
+      },
+      "id": "16"
+    },
+    {
+      "name": "Fresho Orange",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b2e32ef7966b0ed102e84c",
+            "date_uploaded": "2021-05-30T00:58:22.895Z",
+            "length": 19328,
+            "md5": "8c4a20ea8ec5adc2f1af91f3b8ad6a5e",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2e32ef7966b0ed102e84c/8c4a20ea8ec5adc2f1af91f3b8ad6a5e",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2e3da81eb4a13a2f6281a"
+        },
+        {
+          "file": {
+            "id": "60b2e334efb39e09f159987e",
+            "date_uploaded": "2021-05-30T00:58:28.490Z",
+            "length": 15688,
+            "md5": "05f57ab8725a16337d2bbda6d7c6073f",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2e334efb39e09f159987e/05f57ab8725a16337d2bbda6d7c6073f",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2e3da81eb4a13a2f6281b"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 175,
+      "sale_price": 175,
+      "prices": [],
+      "variable": false,
+      "description": "Navel oranges are very sugary and juicy and considered to be the world&#39;s finest orange for fresh consumption because they are very sweet, naturally juice, seedless and peels and segments very easily. It has a variety of phytochemicals containing flavanoids hesperetin, beta-carotene and carotenoids alpha etc. It is wealthy in Vitamin C, A and Folate and includes small amounts of Vitamin E &amp; B complex vitamins too.<br>",
+      "tags": [],
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "fresho-orange",
+      "attributes": {
+        "benifits": "It is rich in Antioxidants which protects the skin from free radicals and also protects against some cancers by suppressing cancer cell proliferation. It is good for asthma patients and orange juice added in the face packs give a new life to the skin by removing the dead cells.",
+        "storage_uses": "Store them in a cool, dry place away from direct sunlight. The peeled, orange segments can be added to the daily fruit bowl, and its juice is a refreshing drink."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "options": [],
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T01:01:14.052Z",
+      "stock_status": null,
+      "category_index": {
+        "sort": {
+          "60b1fb304a48b82c2efbad1d": 0
+        },
+        "id": [
+          "60b1fb304a48b82c2efbad1d"
+        ]
+      },
+      "date_updated": "2021-05-30T01:41:35.543Z",
+      "id": "17"
+    },
+    {
+      "name": "Fresho Pear - Green",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b2e48ae73e6a19737eee43",
+            "date_uploaded": "2021-05-30T01:04:10.128Z",
+            "length": 11464,
+            "md5": "d47ba98b42fde7ab4a5c4fe9c94221ed",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2e48ae73e6a19737eee43/d47ba98b42fde7ab4a5c4fe9c94221ed",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2e49e8d7d900a45b4e0b7"
+        },
+        {
+          "file": {
+            "id": "60b2e48fb600ad60a38ed824",
+            "date_uploaded": "2021-05-30T01:04:15.226Z",
+            "length": 15688,
+            "md5": "05f57ab8725a16337d2bbda6d7c6073f",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2e48fb600ad60a38ed824/05f57ab8725a16337d2bbda6d7c6073f",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2e49e8d7d900a45b4e0b8"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 119,
+      "sale_price": 110,
+      "prices": [],
+      "variable": false,
+      "description": "Pears are grown throughout the world, but none matches the ideal growing conditions and climate of the Pacific Northwest states of USA &ldquo; Washington &amp; Oregon. USA Pears are recognized worldwide for their unsurpassed quality. They are good any time of the day&ldquo; from mid-morning to pre bed time, easy to digest with only 100 calories. &nbsp;USA Pears are ready to eat when they yield to the gentle thumb test.<br>",
+      "tags": [],
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "fresho-pear-green",
+      "attributes": {
+        "benifits": "It contains no cholesterol, no sodium, free from saturated fat, an excellent source of fiber and a good source of vitamin C. USA Pears are a good source of potassium, which can help in lowering blood pressure and reduce risk of cancer. They have a large amount of natural fructose and glucose, making them a quick source of healthy energy.",
+        "storage_uses": "Store them in a cool, dry place away from direct sunlight. Feel the fresh texture of pears raw or in salads. Owing to the dense flesh, they can be consumed baked, roasted and grilled. Blend them into a smoothie when they over ripe."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "options": [],
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T01:04:30.394Z",
+      "stock_status": null,
+      "category_index": {
+        "sort": {
+          "60b1fb304a48b82c2efbad1d": 0
+        },
+        "id": [
+          "60b1fb304a48b82c2efbad1d"
+        ]
+      },
+      "date_updated": "2021-05-30T01:41:35.550Z",
+      "id": "18"
+    },
+    {
+      "name": "Fresho Blueberry, 125 g",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b2e5bbbd55ff1140a85e35",
+            "date_uploaded": "2021-05-30T01:09:16.396Z",
+            "length": 16572,
+            "md5": "46b7fdd2baf13416be1b6aacc0f0633d",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2e5bbbd55ff1140a85e35/46b7fdd2baf13416be1b6aacc0f0633d",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2e5c38d7d900a45b4e3ed"
+        },
+        {
+          "file": {
+            "id": "60b2e5c1a20e3e0b4f81a87e",
+            "date_uploaded": "2021-05-30T01:09:21.072Z",
+            "length": 15688,
+            "md5": "05f57ab8725a16337d2bbda6d7c6073f",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b2e5c1a20e3e0b4f81a87e/05f57ab8725a16337d2bbda6d7c6073f",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b2e5c38d7d900a45b4e3ee"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 420,
+      "sale_price": 400,
+      "prices": [],
+      "variable": false,
+      "description": "Plump, smooth-skinned and indigo coloured perfect little globes of juicy berries have mostly sweet and slightly tart flavour. We have imported this fine quality, delicious tasting variety of blueberries.<br>",
+      "tags": [],
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "fresho-blueberry-125-g",
+      "attributes": {
+        "benifits": "Blueberries are rich in antioxidants. They decrease the risk of obesity, diabetes and heart diseases. Good for weight loss and to maintain hair and skin health. They also improve mental health and maintain healthy bones.",
+        "storage_uses": "Do not rinse berries under running water as the pressure can crush them. Dip them in a bowl of cold water and allow the berries to drain. Store them in a cool, dry place away from direct sunlight. You can refrigerate them 30 minutes prior to usage for a crisp taste. Used for table purpose, in salads and as toppings. You can also blend them into smoothies and milkshakes. Blueberry Pops:->Cut fresh blueberries and add some sugar, water, and a bit of lemon juice to make these fruity frozen pops. This recipe is wonderful with a combination of berries, such as strawberries and raspberries."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "options": [],
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T01:08:40.560Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T01:41:35.570Z",
+      "category_index": {
+        "sort": {
+          "60b1fb304a48b82c2efbad1d": 0
+        },
+        "id": [
+          "60b1fb304a48b82c2efbad1d"
+        ]
+      },
+      "id": "19"
+    }
+  ],
+  "snacks": [
+    {
+      "name": "Pringles",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b32271abf05f198bba981e",
+            "date_uploaded": "2021-05-30T05:28:17.640Z",
+            "length": 17040,
+            "md5": "823e6cf6b8ac5c6bf29bad8f7a3658f0",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b32271abf05f198bba981e/823e6cf6b8ac5c6bf29bad8f7a3658f0",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b322b37dfaee22b6d7610f"
+        },
+        {
+          "file": {
+            "id": "60b32279af5cd517280b7813",
+            "date_uploaded": "2021-05-30T05:28:25.446Z",
+            "length": 13572,
+            "md5": "d0ee4d46f8b364198976e577e60258f3",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b32279af5cd517280b7813/d0ee4d46f8b364198976e577e60258f3",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b322b37dfaee22b6d76110"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 99,
+      "sale_price": 90,
+      "variable": false,
+      "description": "Presenting the international favourite, Pringles, now in India. This international range brings to you the amazing Original flavour of Pringles. Unlike other Potato chips, Pringles iconic crisp is made from a mix of Potato, Rice flour, Corn Flour and Wheat starch. It is light and crispy, never greasy and a comes in a can that is just not a can. Experience the Pringles Magic today. Satisfy your snack craving with the irresistible taste of Original flavour potato crisps; uniquely shaped and seasoned from edge to edge for a perfectly flavoured bite every time. Make snack time more fun with the original, stackable potato crisp; pop open a can and experience the classic flavour and satisfying crunch.<br>",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "pringles",
+      "attributes": {
+        "ingredients": "Dried Potatoes. Vegetable oil (contains one or more of the following. Corn oil Cottonseed oil, Soybean oil, and or Sunflower oil), Corn flour, Wheat starch, Maliodextrain, Salt, Rice flour and dextrise. Contains wheat Ingredients."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T05:29:23.619Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T05:30:04.657Z",
+      "id": "1"
+    },
+    {
+      "name": "Lays Potato Chips",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b32208abf05f198bba57e2",
+            "date_uploaded": "2021-05-30T05:26:32.704Z",
+            "length": 37648,
+            "md5": "dda3a4417147af654bdb714c4e48c09e",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b32208abf05f198bba57e2/dda3a4417147af654bdb714c4e48c09e",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b32241af5cd517280b3a1b"
+        },
+        {
+          "file": {
+            "id": "60b3220faf5cd517280b1982",
+            "date_uploaded": "2021-05-30T05:26:39.087Z",
+            "length": 48556,
+            "md5": "564e09805e0250227d8dab2365708c6d",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b3220faf5cd517280b1982/564e09805e0250227d8dab2365708c6d",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b32241af5cd517280b3a1c"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 10,
+      "sale_price": 10,
+      "variable": false,
+      "description": "Relish the delectable combination of sour and cream perfectly blended with herb and onion flavour. Delicious individual bags: perfect for snacking at work, home or school. Combining two great flavours, this one is absolutely delicious! Call your friends over or get ready to watch a movie no matter what you do, make sure you have this yummy snack close by.<br>",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "lays-potato-chips",
+      "attributes": {
+        "ingredients": "Potato, Edible Vegetable Oil, Salt, Sugar, Spices & Condiments sed as natural flavouring agents (Onion Powder, Parsley Powder, Pepper Powder), Milk Solids (1.3%), Cheese Powder (0.1%), Wheat Fibre, Starch."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T05:27:29.103Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T05:30:04.663Z",
+      "id": "2"
+    },
+    {
+      "name": "McCain Potato Bites",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b321abf6496750bbaa7b36",
+            "date_uploaded": "2021-05-30T05:24:59.048Z",
+            "length": 46604,
+            "md5": "c949ce30bfd75cf52da16e6c60cbb76b",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b321abf6496750bbaa7b36/c949ce30bfd75cf52da16e6c60cbb76b",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b321e9ecdad660eb9e87d2"
+        },
+        {
+          "file": {
+            "id": "60b321b1e73e6a197380d04f",
+            "date_uploaded": "2021-05-30T05:25:05.694Z",
+            "length": 58424,
+            "md5": "4270f9734cc7d35914420074df5baf34",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b321b1e73e6a197380d04f/4270f9734cc7d35914420074df5baf34",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b321e9ecdad660eb9e87d3"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 120,
+      "sale_price": 108,
+      "variable": false,
+      "description": "McCain Chilli Garlic Potato Bites are the finest satisfying stuffs to delight you with the peppery blend of Chilli, Potatoes and Garlic. The wholesome and yummy bites will raise your tang buds. They are the light, golden bites that add nutrition and flavour to the family meals time after time. Indulge yourself within the fresh and genuine flavour of potato bites engrossing with spicy, syrupy and bitter ingredients.<br>",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "mc-cain-potato-bites",
+      "attributes": {
+        "ingredients": "Potatoes, Edible vegetable oil, Corn flour, Garlic paste, Iodized salt, Onion powder, Red chilli flakes."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T05:26:01.896Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T05:30:04.672Z",
+      "id": "3"
+    },
+    {
+      "name": "Doritos Nachos Cheese",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b3217f6045bb7393302cb5",
+            "date_uploaded": "2021-05-30T05:24:15.168Z",
+            "length": 39496,
+            "md5": "1c55224d33a513c3a44d950552af491f",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b3217f6045bb7393302cb5/1c55224d33a513c3a44d950552af491f",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b3218baf5cd517280acffe"
+        },
+        {
+          "file": {
+            "id": "60b32187abf05f198bb9fe9d",
+            "date_uploaded": "2021-05-30T05:24:23.273Z",
+            "length": 50120,
+            "md5": "34dd611bdd8e371f4fe6021392cb224f",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b32187abf05f198bb9fe9d/34dd611bdd8e371f4fe6021392cb224f",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b3218baf5cd517280acfff"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 10,
+      "sale_price": 10,
+      "variable": false,
+      "description": "Doritos is the spark that ignites you to be bold. Tooth rattling crunch and intense flavours that ignite you to seize the moment and release your inner boldness. If you&rsquo;re up to the challenge, grab a bag of DORITOS&reg; Nacho Cheese tortilla chips and get ready for the experience. It&rsquo;s has a bold experience in snacking and beyond.<br>",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "doritos-nachos-cheese",
+      "attributes": {
+        "ingredients": "Corn (77%), Edible Vegetable Oil (Palmolein Oil), Milk Solids, Refined Wheat Flour(Maida), Iodised Salt.*Spices & Condiments (Onion Powder, Spice Extract, Garlic Powder, Pepper, Chilli Powder, Cumin), Cheese Powder(0.5%), Tomato Powder, Citric Acid(330)."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T05:24:27.632Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T05:30:04.675Z",
+      "id": "4"
+    },
+    {
+      "name": "MTR Gulab Jamun",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b32121ecdad660eb9e8159",
+            "date_uploaded": "2021-05-30T05:22:41.383Z",
+            "length": 39768,
+            "md5": "73347ccebceaede51744ce6bdc4a6800",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b32121ecdad660eb9e8159/73347ccebceaede51744ce6bdc4a6800",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b32131f6496750bbaa785c"
+        },
+        {
+          "file": {
+            "id": "60b32129af5cd517280a6743",
+            "date_uploaded": "2021-05-30T05:22:49.700Z",
+            "length": 41664,
+            "md5": "1d8a92539968e30bf4b25f3d875497cd",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b32129af5cd517280a6743/1d8a92539968e30bf4b25f3d875497cd",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b32131f6496750bbaa785d"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 120,
+      "sale_price": 120,
+      "variable": false,
+      "description": "Enjoy the mouthwatering flavours of MTR Foods Gulab Jamuns anytime, anywhere. These traditional Indian sweets are suited to every occasion and every celebration. In true MTR Foods tradition, you can serve it with minimum inconvenience and maximum delight!<br>",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "mtr-gulab-jamun",
+      "attributes": {
+        "ingredients": "ADD LATER"
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T05:22:57.726Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T05:30:04.699Z",
+      "id": "5"
+    },
+    {
+      "name": "Paper Boat Aam Papad",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b32064021ada2037cd9576",
+            "date_uploaded": "2021-05-30T05:19:32.287Z",
+            "length": 17528,
+            "md5": "5778ac4e475197585668772a91822fae",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b32064021ada2037cd9576/5778ac4e475197585668772a91822fae",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b320bbe2893c123e23b098"
+        },
+        {
+          "file": {
+            "id": "60b3206dabf05f198bb98f04",
+            "date_uploaded": "2021-05-30T05:19:41.521Z",
+            "length": 38840,
+            "md5": "4151032361dd4435aea876b315e814cc",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b3206dabf05f198bb98f04/4151032361dd4435aea876b315e814cc",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b320bbe2893c123e23b099"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 65,
+      "sale_price": 60,
+      "variable": false,
+      "description": "Every summer afternoon, when Maa would sleep tired after half a day&rsquo;s zillion duties, we would surreptitiously tiptoe into the kitchen for a little after-lunch snack. The cool tile flooring masking the sound of us acting like plundering bandits in our own home, looking for the infamous steel dabba. We&rsquo;ll never forget this one particular afternoon when Maa caught us stealing Aam Papad red-handed. Since this wasn&rsquo;t the first time, we were expecting things to get ugly but instead, she too sat with us on the floor and demanded her share. We were all complicit here! As we ate that tangy, sweet treat we saw a fun, rule breaker side to our mother that&rsquo;s forever etched in our hearts. Guess Aam Papad brings out the child in everyone!<br>",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "paper-boat-aam-papad",
+      "attributes": {
+        "ingredients": "Mango Puree (79%), Sugar, Water, Stabilizer (Pectin) And Acidity Regulator (Citric Acid). Contains Added Flavours (Natural And Nature-Identical Flavouring Substances)."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T05:20:59.808Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T05:30:04.706Z",
+      "id": "6"
+    },
+    {
+      "name": "Hersheys Kisses - Milk Chocolate,",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b32025e2893c123e23aa61",
+            "date_uploaded": "2021-05-30T05:18:29.458Z",
+            "length": 19504,
+            "md5": "81d2fd466054f2569a8e88f5712d1728",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b32025e2893c123e23aa61/81d2fd466054f2569a8e88f5712d1728",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b32039f53e4a1d7c293384"
+        },
+        {
+          "file": {
+            "id": "60b3202ee2893c123e23aa69",
+            "date_uploaded": "2021-05-30T05:18:38.955Z",
+            "length": 24264,
+            "md5": "3256264894ee8cb2111b8e954cae3d8e",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b3202ee2893c123e23aa69/3256264894ee8cb2111b8e954cae3d8e",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b32039f53e4a1d7c293385"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 140,
+      "sale_price": 120,
+      "variable": false,
+      "description": "For over 100 years, the iconic Hersheys Kisses chocolates have been spreading happiness across the world. Kisses chocolate is made with creamy delicious milk chocolate &amp; almond and is delicately wrapped to make your loved ones feel special. The bite-sized pieces of chocolate have a distinctive shape of flat-bottomed teardrops. Show that you care and say it with a kiss. Hersheys Kisses are available in the following flavours - milk chocolate, cookies &amp; creme, almond.<br>",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "hersheys-kisses-milk-chocolate",
+      "attributes": {
+        "ingredients": "Sugar, Milk Solids (27%), Cocoa Butter, Cocoa Solids & Emulsifiers (476, 322 (i)). (Approximate Values). Contains Added Artificial Flavouring Substances (Vanillin)."
+      },
+      "undefined": null,
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T05:18:19.789Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T05:30:04.685Z",
+      "id": "7"
+    },
+    {
+      "name": "Amul Sugar Free Dark Chocolate",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b31f9f7dfaee22b6d748c8",
+            "date_uploaded": "2021-05-30T05:16:15.866Z",
+            "length": 14476,
+            "md5": "6fa19b4cd087545ee161921363b068e7",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b31f9f7dfaee22b6d748c8/6fa19b4cd087545ee161921363b068e7",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b31fcbecdad660eb9e73c1"
+        },
+        {
+          "file": {
+            "id": "60b31fa5ecdad660eb9e7038",
+            "date_uploaded": "2021-05-30T05:16:21.234Z",
+            "length": 24528,
+            "md5": "054d950f8197dac916e49cced069cf99",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b31fa5ecdad660eb9e7038/054d950f8197dac916e49cced069cf99",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b31fcbecdad660eb9e73c2"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 125,
+      "sale_price": 115,
+      "variable": false,
+      "description": "It is rich, it is smooth, It is delicious and most importantly, it is sugar-free. Amul Sugar Free Dark Chocolate is the perfect way to surrender to a truly mesmerizing experience sans calories.<br>",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "amul-sugar-free-dark-chocolate",
+      "attributes": {
+        "ingredients": "Maltitol, Cocoa Solids, Cocoa Butter, Permitted Emulsifiers (E322, E476). Contains Added Flavours (Artificial Flavouring Substances - Cocoa and Vanilla)."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T05:16:59.127Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T05:30:04.668Z",
+      "id": "8"
+    },
+    {
+      "name": "Nestle Kitkat Fingers Share Bag",
+      "sku": null,
+      "active": true,
+      "quantity":1,
+      "images": [
+        {
+          "file": {
+            "id": "60b31f43293ad908b1c9575f",
+            "date_uploaded": "2021-05-30T05:14:43.419Z",
+            "length": 31036,
+            "md5": "14ffdad2596f7fc2e6ba123555c32206",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b31f43293ad908b1c9575f/14ffdad2596f7fc2e6ba123555c32206",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b31f556045bb73933017f6"
+        },
+        {
+          "file": {
+            "id": "60b31f4cecdad660eb9e6c78",
+            "date_uploaded": "2021-05-30T05:14:52.026Z",
+            "length": 26628,
+            "md5": "ed44960ce9ee88a6c24adea1d6b1b683",
+            "filename": null,
+            "content_type": "image/webp",
+            "metadata": null,
+            "url": "https://cdn.schema.io/not-applicable/60b31f4cecdad660eb9e6c78/ed44960ce9ee88a6c24adea1d6b1b683",
+            "width": 500,
+            "height": 500
+          },
+          "id": "60b31f556045bb73933017f7"
+        }
+      ],
+      "bundle": false,
+      "sale": false,
+      "price": 100,
+      "sale_price": 80,
+      "variable": false,
+      "description": "Share your favourite treats with your favourite people. This Share bag contains 7 individually wrapped KitKat 2 Finger packs. Just unwrap your KitKat, break off one of the fingers, snap into two and savour the delicious crispy treat. Have A Break, Have A Kitkat.<br>",
+      "meta_title": null,
+      "meta_description": null,
+      "slug": "nestle-kitkat-fingers-share-bag",
+      "attributes": {
+        "ingredients": "Sugar, Milk Solids, Refined Wheat Flour (maida), Hydrogenated Vegetable Fats (contain Sesame Oil), Edible Vegetable Fats, Cocoa Solids (4.4%), Emulsifier (soya Lecithin), Raising Agent (500(ii)), Yeast, Flour Treatment Agents (516 And 1101(i)) And Iodized Salt. Contains Added Flavour (Artificial (Vanilla) Flavouring Substances). May Contain Peanuts."
+      },
+      "type": "standard",
+      "stock_tracking": false,
+      "currency": "INR",
+      "delivery": "shipment",
+      "tax_class": "standard",
+      "date_created": "2021-05-30T05:15:01.306Z",
+      "stock_status": null,
+      "date_updated": "2021-05-30T05:30:04.686Z",
+      "id": "9"
+    }
+  ],
+  "users": [
+    {
+      "email": "dineshwarreddy619@gmail.com",
+      "id": 1
+    },
+    {
+      "email": "Abc",
+      "id": 2
+    },
+    {
+      "email": "123",
+      "id": 3
+    }
+  ]
+}

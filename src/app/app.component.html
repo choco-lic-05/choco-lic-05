@@ -1,0 +1,61 @@
+<!-- Navbar -->
+<nav class="navbar navbar-expand-md navbar-light">
+  <div class="container">
+    <a class="navbar-brand brand" routerLink='home'>
+      <img class="navbar-logo" src="../assets/Images/logo-removebg-preview.png" width="50px" alt="">
+          Daily Fresh
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class=" navbar-collapse collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <li class="nav-item dropdown">
+          <button type="button" class="nav-link shop dropdown-toggle text-dark btn btn-light p-2 shadow ms-2" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Shop
+          </button>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" routerLink="fruits-vegitables" routerLinkActive="active">Fruits & Vegetables </a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" routerLink="snacks" routerLinkActive="active">Snacks</a></li>
+          </ul>
+        </li>
+       
+        <li *ngIf='numberOfProductsAdded==0' class="nav-item">
+          <button class="nav-link btn btn-light p-2 text-dark cart shadow ms-2" routerLink="cart" routerLinkActive="active"><i class="fas fa-shopping-cart"></i>Cart
+          </button>
+        </li>
+        <li *ngIf='numberOfProductsAdded>0' class="nav-item">
+          <button [value]='numberOfProductsAdded' class="nav-link btn btn-light p-2 text-dark cart shadow ms-2" routerLink="cart" routerLinkActive="active"><i class="fas fa-shopping-cart"></i>Cart
+          </button>
+        </li>
+        <li class="nav-item">
+          <button class="nav-link btn btn-light p-2 text-dark register shadow ms-2" routerLink="register" routerLinkActive="active"><i class="fas fa-user-plus"></i>Regiter
+          </button>
+        </li>
+        <li class="nav-item">
+          <button class="nav-link btn btn-light p-2 text-dark login shadow ms-2" routerLink="login" routerLinkActive="active"><i class="fas fa-user-circle"></i>Login
+          </button>
+        </li> 
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+
+
+
+
+
+<!-- outlet -->
+<div (mouseover)='numberOfProducts()'>
+  <router-outlet></router-outlet>
+</div>
+
+<!-- footer -->
+<div>
+  <app-footer></app-footer>
+</div>
