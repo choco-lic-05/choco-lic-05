@@ -20,11 +20,9 @@ export class CartComponent implements OnInit {
     this.productsAddedToCart = (this.CartDS.getTheProductsInCart())
   }
 
-  deleteItem(ind){
+  deleteItem(product,ind){
     this.CartDS.deleteProductFromCart(ind);
-    this.toastr.warning('','Removed from the Cart 😓')
+    this.toastr.error(product.name+' Removed from the Cart 😓')
   }
   
 }
-
-
